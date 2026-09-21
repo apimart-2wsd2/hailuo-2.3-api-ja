@@ -2,7 +2,7 @@
 
 > **秒あたり $0.0248** の従量課金。最低 1 ドルからチャージでき、OpenAI 互換の `https://api.apimart.ai/v1` だけで完結します。
 
-**[Hailuo 2.3 のモデルページ](https://apimart.ai/ja/model/minimax-hailuo-2-3)** · **[最新の料金](https://apimart.ai/ja/pricing)** · **[API キーを取得](https://apimart.ai/ja/keys)**
+**[Hailuo 2.3 のモデルページ](https://go.apimart.ai/k-9ce965)** · **[最新の料金](https://go.apimart.ai/k-977a6f)** · **[API キーを取得](https://go.apimart.ai/k-ececf4)**
 
 物理挙動とカメラ指示が得意。Fast は毎秒 2.48 セントで、動きの検証に向く。
 
