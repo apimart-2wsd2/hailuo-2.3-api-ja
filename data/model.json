@@ -1,0 +1,14 @@
+{
+  "model_id": "MiniMax-Hailuo-2.3-Fast",
+  "family": "Hailuo 2.3",
+  "snapshot": "2026-09-21",
+  "unit": "秒あたり",
+  "price_effective": {
+    "default": 0.0248,
+    "1080P": 0.0424
+  },
+  "endpoint": "https://api.apimart.ai/v1/videos/generations",
+  "poll": "/v1/tasks/{id}",
+  "language": "ja",
+  "source": "https://apimart.ai/en/pricing (extracted 2026-09-21)"
+}
