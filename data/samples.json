@@ -1,0 +1,19 @@
+{
+  "model": "MiniMax-Hailuo-2.3",
+  "generated_at": "2026-09-21",
+  "cost_usd": 0.2928,
+  "samples": [
+    {
+      "repo": "hailuo-2.3-api-ja",
+      "slug": "01-preview",
+      "ok": true,
+      "file": "01-preview.mp4",
+      "bytes": 1595093,
+      "thumb": "01-preview-thumb.jpg",
+      "cost": 0.2928,
+      "prompt": "a slow camera push over a coastal villa at dusk, calm sea",
+      "lang": "ja",
+      "note": "Fast 档上游暂不支持，样本用 MiniMax-Hailuo-2.3 标准档生成"
+    }
+  ]
+}

@@ -2,7 +2,8 @@
 
 > **秒あたり $0.0248** の従量課金。最低 1 ドルからチャージでき、OpenAI 互換の `https://api.apimart.ai/v1` だけで完結します。
 
-**[Hailuo 2.3 のモデルページ](https://go.apimart.ai/k-9ce965)** · **[最新の料金](https://go.apimart.ai/k-977a6f)** · **[API キーを取得](https://go.apimart.ai/k-ececf4)**
+<p align="center"><img src="assets/01-preview-thumb.jpg" width="820" alt="Hailuo 2.3 sample frame"></p>
+**[Hailuo 2.3 のモデルページ](https://apimart.ai/ja/model/minimax-hailuo-2-3)** · **[最新の料金](https://apimart.ai/ja/pricing)** · **[API キーを取得](https://apimart.ai/ja/keys)**
 
 物理挙動とカメラ指示が得意。Fast は毎秒 2.48 セントで、動きの検証に向く。
 
@@ -20,6 +21,13 @@
 | `model` | `MiniMax-Hailuo-2.3-Fast` |
 | endpoint | `POST https://api.apimart.ai/v1/videos/generations` |
 | task | GET /v1/tasks/{id} |
+
+
+## 実際に生成したサンプル（すべて実コールの結果）
+
+| 出力 | file | 費用 | prompt |
+| --- | --- | --- | --- |
+| <img src="assets/01-preview-thumb.jpg" width="260"> | [01-preview.mp4](assets/01-preview.mp4) | $0.2928 | `a slow camera push over a coastal villa at dusk, calm sea` |
 
 ## 実測料金
 
